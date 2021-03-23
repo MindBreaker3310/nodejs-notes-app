@@ -1,5 +1,4 @@
 # nodejs-notes-app
- nodejs-notes-app
 
 ## 🚩技術
 
